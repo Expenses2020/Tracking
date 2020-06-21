@@ -1,4 +1,3 @@
-# Tracking
 Tracking Expenses for 2020
 
 | DATE        | FUEL        | WASH        | PARTS        | SERVICE        | TOLLS        | SUNDRY        |
