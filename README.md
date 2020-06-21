@@ -1,9 +1,6 @@
 # Tracking
 Tracking Expenses for 2020
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| DATE        | FUEL        | WASH        | PARTS        | SERVICE        | TOLLS        | SUNDRY        |
+| ----------- |:-----------:|:-----------:|:------------:|:--------------:| :-----------:|:-------------:|
+| col 3 is      | right-aligned | $1600 | col 3 is      | right-aligned | $1600 |$1600 |
